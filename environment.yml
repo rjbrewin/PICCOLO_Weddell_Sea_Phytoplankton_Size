@@ -4,9 +4,5 @@ dependencies:
   - matplotlib
   - Cartopy
   - xarray
-  - string
   - geopandas
   - rasterio
-  - os
-  - zipfile
-  - glob
