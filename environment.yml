@@ -6,3 +6,4 @@ dependencies:
   - xarray
   - geopandas
   - rasterio
+  - lmfit
